@@ -2,12 +2,13 @@ name: brykoch
 favicon: null
 layout_spectrum: 0.26722012157551944
 typography_spectrum: 0.00957808387465775
+title: Bryan Koch
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-71953855-1
   facebook: null
   twitter: null
 opengraph:
